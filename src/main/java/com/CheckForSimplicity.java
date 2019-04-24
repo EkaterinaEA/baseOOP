@@ -2,7 +2,7 @@ package com;
 
 import java.util.Scanner;
 
-public class CheckForSimplicity {
+public class CheckForSimplicity  {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
