@@ -1,5 +1,7 @@
 package com.PackageReflection.PackageExample;
 
+import com.Annotation.RandomInt;
+
 public class User {
     private String nameUser;
 

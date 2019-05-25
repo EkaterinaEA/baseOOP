@@ -1,11 +1,11 @@
 package com.PackageReflection.PackageExample;
 
+import com.Annotation.RandomInt;
+
 import java.lang.annotation.Annotation;
 
 public class Monitor {
-    import Annotation.RandomInt;
 
-    public class Monitor {
         private String monitorBrand = "Dell";
 
         @RandomInt(min = 50, max = 100)
@@ -24,4 +24,3 @@ public class Monitor {
         }
     }
 
-}
