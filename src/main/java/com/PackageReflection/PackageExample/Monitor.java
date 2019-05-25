@@ -1,4 +1,4 @@
-package com.PackageReflection;
+package com.PackageReflection.PackageExample;
 
 import java.lang.annotation.Annotation;
 
